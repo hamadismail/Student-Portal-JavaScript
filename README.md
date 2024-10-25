@@ -4,4 +4,5 @@
 
 **Check out the live version of this project [here](https://hamadismail.github.io/Student-Portal-JavaScript/)**
 
-**Default user: hamad <br> pin: 1111**
+<br><br>
+**#User 1 <br> user: hamad <br> pin: 1111**
